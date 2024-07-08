@@ -7,7 +7,7 @@ nvtin1104@gmail.com
 
 ---
 
-## ✌️PROFILE
+## ABOUT ME
 A web development student has basic knowledge of developing front-end interfaces with ReactJS and back-end services with ExpressJS, PHP. 
 Have good teamwork skills, good communication skills and be proactive at work. Enthusiastic about learning new technologies and improving skills to keep up with industry trends.  Desire to gain practical experience and apply academic knowledge in a professional environment through internships and employment for future personal development.
 
@@ -33,7 +33,7 @@ Have good teamwork skills, good communication skills and be proactive at work. E
 - *Link:* [https://3000webapp.vercel.app](https://3000webapp.vercel.app)
 - *GitHub:* [https://github.com/hptprobook/3000](https://github.com/hptprobook/3000)
 - *Type:* Team Project
-- *Role*: Fullstack
+- *Role*: Frontend
 - *Description:* An e-commerce project using NextJS, Laravel, MySQL, and MUI. It allows users to buy and sell products.
 
 ### Support Learning IT
@@ -42,12 +42,12 @@ Have good teamwork skills, good communication skills and be proactive at work. E
 - *Role*: FullStack
 - *Description:* A project using ReactJS, NodeJS, MongoDB, and ExpressJS. It allows running and compiling code online, and features Q&A with AI using Gemini and ChatGPT APIs.
 
-### IT Store
-- *Link:* [https://indigo-tarsier-680740.hostingersite.com](https://indigo-tarsier-680740.hostingersite.com)
-- *GitHub:* [https://github.com/hptprobook/DuAnMau-NoCode](https://github.com/hptprobook/DuAnMau-NoCode)
-- *Type:* Team Project
+### Book Store
+- *Link:* [https://indigo-tarsier-680740.hostingersite.com](https://book-shop-bmt.000webhostapp.com/)
+- *GitHub:* [https://github.com/nvtin1104/PHP2](https://github.com/nvtin1104/PHP2)
+- *Type:* Personal Project
 - *Role*: FullStack
-- *Description:* A sales project using Laravel and Blade master layout.
+- *Description:* A sales project using PHP and HTML5/CSS3.
 
 ### Tool Export LMS
 - *Link:* [Export Score Extension](https://chromewebstore.google.com/detail/export-score/nligchepkpodlccjkjliepebgloolfee?authuser=0&hl=vi)
