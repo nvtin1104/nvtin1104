@@ -1,9 +1,9 @@
-# PHAN THANH HOA
-hptprobook@gmail.com
+# NGUYEN VAN TIN
+nvtin1104@gmail.com
 
 ## BACK-END / FRONT-END DEVELOPER
 ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100040867566504) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ho%C3%A1-phan-thanh-31b5952b1/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25380845/ho%c3%a1-phan-thanh) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nvtin1104) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nvtin1104/)
 
 ---
 
