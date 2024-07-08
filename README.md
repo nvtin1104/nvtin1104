@@ -58,21 +58,15 @@ Have good teamwork skills, good communication skills and be proactive at work. E
 ---
 
 ## 🏆ACHIEVEMENTS
-- Consolation prize in the Landing Page Hackathon 2023 organized by FPT Polytechnic.
-  
 
-<img src="https://i.ibb.co/ZNCX5gq/nhangiaihackathonlandingpage.jpg" alt="nhangiaihackathonlandingpage" border="0" style="width: 640px; height: 427px;">
-
----
-
-- Idea and Creativity Prize in the Game Viet Hackathon 2023 organized by FPT Polytechnic.
+- Participate in the Generative AI contest organized by FPT Edu.
 
 
-<img src="https://i.ibb.co/vvrR9qm/nhangiaigameviethackathon.jpg" alt="nhangiaigameviethackathon" border="0" style="width: 640px; height: 427px;">
+<img src="https://img.upanh.tv/2024/07/08/genAIPrize02aa2e1ada279ffa.jpg" alt="genAIPrize02aa2e1ada279ffa.jpg" border="0" style="width: 640px; height: 427px;">
 
 ---
 
-- Top 56 in the Generative AI organized by FPT Edu.
+- Participate in the Generative AI contest organized by FPT Edu.
 
 
 <img src="https://img.upanh.tv/2024/07/08/genAIPrize02aa2e1ada279ffa.jpg" alt="genAIPrize02aa2e1ada279ffa.jpg" border="0" style="width: 640px; height: 427px;">
