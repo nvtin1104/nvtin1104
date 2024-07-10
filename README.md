@@ -43,14 +43,14 @@ Have good teamwork skills, good communication skills and be proactive at work. E
 - *Description:* A project using ReactJS, NodeJS, MongoDB, and ExpressJS. It allows running and compiling code online, and features Q&A with AI using Gemini and ChatGPT APIs.
 
 ### Book Store
-- *Link:* [https://indigo-tarsier-680740.hostingersite.com](https://book-shop-bmt.000webhostapp.com/)
+- *Link:* [BookStore BMT](https://book-shop-bmt.000webhostapp.com/)
 - *GitHub:* [https://github.com/nvtin1104/PHP2](https://github.com/nvtin1104/PHP2)
 - *Type:* Personal Project
 - *Role*: FullStack
 - *Description:* A sales project using PHP and HTML5/CSS3.
 - 
 ### E-commerce Website
-- *Link:* [https://admin-3000.id.vn/](https://admin-3000.id.vn/)
+- *Link:* [BMT Print](https://admin-3000.id.vn/)
 - *Type:* Personal Project
 - *Role*: FullStack
 - *Description:* An e-commerce project using Wordpress.
