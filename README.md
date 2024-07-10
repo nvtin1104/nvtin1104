@@ -48,7 +48,13 @@ Have good teamwork skills, good communication skills and be proactive at work. E
 - *Type:* Personal Project
 - *Role*: FullStack
 - *Description:* A sales project using PHP and HTML5/CSS3.
-
+- 
+### E-commerce Website
+- *Link:* [https://admin-3000.id.vn/](https://admin-3000.id.vn/)
+- *Type:* Personal Project
+- *Role*: FullStack
+- *Description:* An e-commerce project using Wordpress.
+  
 ### Tool Export LMS
 - *Link:* [Export Score Extension](https://chromewebstore.google.com/detail/export-score/nligchepkpodlccjkjliepebgloolfee?authuser=0&hl=vi)
 - *Type:* Team Project
