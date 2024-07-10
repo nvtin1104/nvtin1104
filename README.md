@@ -70,4 +70,11 @@ Have good teamwork skills, good communication skills and be proactive at work. E
 
 <img src="https://img.upanh.tv/2024/07/10/exce4af3223cd898f234.jpg" alt="exce4af3223cd898f234.jpg" border="0" style="width: 640px; height: 427px;">
 
+## 🏃‍♂️ACTIVES
+
+- Participate in a programming class project for children in Khanh Xuan, BMT - 07/2023
+
+ *Article link:* [CLass Progaming](https://www.facebook.com/CTSVPOLYTayNguyen/posts/pfbid0np9GzU814ttYibNCYyd1YWxtg21TvKp2K7nhZ19nTtSjDKzz97tg9nZY7uz25xKSl)
+
+
 ---
