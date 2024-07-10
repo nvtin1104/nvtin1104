@@ -23,12 +23,6 @@ Have good teamwork skills, good communication skills and be proactive at work. E
 ---
 
 ## ✍️PROJECTS
-### Todo App
-- *Link:* [https://hpt-trello.vercel.app](https://hpt-trello.vercel.app)
-- *GitHub:* [https://github.com/hptprobook/frontend-framework](https://github.com/hptprobook/frontend-framework)
-- *Type:* Personal Project
-- *Description:* A Trello clone project using MongoDB, NodeJS, ReactJS, and ExpressJS. It allows users to manage tasks, drag and drop, and more.
-
 ### E-commerce Website
 - *Link:* [https://3000webapp.vercel.app](https://3000webapp.vercel.app)
 - *GitHub:* [https://github.com/hptprobook/3000](https://github.com/hptprobook/3000)
@@ -41,7 +35,7 @@ Have good teamwork skills, good communication skills and be proactive at work. E
 - *Type:* Team Project
 - *Role*: FullStack
 - *Description:* A project using ReactJS, NodeJS, MongoDB, and ExpressJS. It allows running and compiling code online, and features Q&A with AI using Gemini and ChatGPT APIs.
-
+- *Certification:* [Support Learning IT](https://xuongthuchanh.poly.edu.vn/certificate/PK03092/65fbb01783e27d8e3458d8a4)
 ### Book Store
 - *Link:* [BookStore BMT](https://book-shop-bmt.000webhostapp.com/)
 - *GitHub:* [https://github.com/nvtin1104/PHP2](https://github.com/nvtin1104/PHP2)
@@ -49,7 +43,7 @@ Have good teamwork skills, good communication skills and be proactive at work. E
 - *Role*: FullStack
 - *Description:* A sales project using PHP and HTML5/CSS3.
 - 
-### E-commerce Website
+### E-commerce Wordpress Website
 - *Link:* [BMT Print](https://admin-3000.id.vn/)
 - *Type:* Personal Project
 - *Role*: FullStack
@@ -60,7 +54,7 @@ Have good teamwork skills, good communication skills and be proactive at work. E
 - *Type:* Team Project
 - *Role*: Front-end
 - *Description:* A Chrome extension project using ReactJS that allows teachers to export grades to Excel.
-
+- *Certification:* [Tool Export LMS](https://xuongthuchanh.poly.edu.vn/certificate/PK03092/65d440a44c768e0c1dbe1239)
 ---
 
 ## 🏆ACHIEVEMENTS
