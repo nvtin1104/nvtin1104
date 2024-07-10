@@ -62,13 +62,12 @@ Have good teamwork skills, good communication skills and be proactive at work. E
 - Participate in the Generative AI contest organized by FPT Edu.
 
 
-<img src="https://photos.app.goo.gl/orryg1qM54kzeeT36" alt="z5621455196650_f982ac0ee78d7354a00dc2c5282c0996.jpg" border="0" style="width: 640px; height: 427px;">
+<img src="https://img.upanh.tv/2024/07/10/hackthon.jpg" alt="hackthon.jpg" border="0" style="width: 640px; height: 427px;">
 
 ---
 
 - Participate in the Generative AI contest organized by FPT Edu.
 
-
-<img src="https://img.upanh.tv/2024/07/08/genAIPrize02aa2e1ada279ffa.jpg" alt="genAIPrize02aa2e1ada279ffa.jpg" border="0" style="width: 640px; height: 427px;">
+<img src="https://img.upanh.tv/2024/07/10/exce4af3223cd898f234.jpg" alt="exce4af3223cd898f234.jpg" border="0" style="width: 640px; height: 427px;">
 
 ---
