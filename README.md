@@ -66,7 +66,7 @@ Have good teamwork skills, good communication skills and be proactive at work. E
 
 ---
 
-- Participate in the Generative AI contest organized by FPT Edu.
+- MOS Excel 2016 certification
 
 <img src="https://img.upanh.tv/2024/07/10/exce4af3223cd898f234.jpg" alt="exce4af3223cd898f234.jpg" border="0" style="width: 640px; height: 427px;">
 
