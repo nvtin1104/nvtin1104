@@ -34,8 +34,8 @@ Full-stack developer building production web applications, microservices backend
 ### 🌐 Personal Websites & Landing Pages (`likecactus.com`)
 - **[likecactus.com](https://likecactus.com)** — Personal website & interactive 3D landing page.
   `React` · `Three.js` · `Tailwind CSS` · `Cloudflare Workers`
-- **[honeyshopcosplay.likecactus.com](https://honeyshopcosplay.likecactus.com)** — Full-stack e-commerce storefront & API.
-  `Next.js` · `Hono` · `Drizzle ORM` · `Cloudflare Workers`
+- **[cofi17.likecactus.com](https://cofi17.likecactus.com)** — Interactive 3D event map & booth walkthrough for Color Fiesta.
+  `Three.js` · `TypeScript` · `Vite` · `PWA` · `Cloudflare Pages`
 - **[artistday21.likecactus.com](https://artistday21.likecactus.com)** — Event landing page with smooth scroll & motion animations.
   `Astro` · `GSAP` · `Lenis` · `TypeScript`
 - **[ttp.likecactus.com](https://ttp.likecactus.com)** — Event landing page & SEO-optimized static site.
